@@ -1,9 +1,9 @@
-## 夏天的风
+## About me
 + ⛹️我是Anthony
 + 👨‍💻前端工程师
 + 📮邮箱：rollingthedice22@gmail.com
 
-<div align="center">
+<div align="left">
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnthonyWanng" />
   <span>  </span>
