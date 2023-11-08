@@ -1,7 +1,9 @@
 ## 🥱About me
 + ⛹️我是Anthony
-+ 👨‍💻前端工程师
++ 👨‍💻一名前端工程师
+<!--
 + 📮邮箱：rollingthedice22@gmail.com
+-->
 
 ## 📈Statistics
 <div align="left">
@@ -13,4 +15,6 @@
   <span>  </span>
   -->
 </div>
+
+## 🚀status
 <div align="left"><img src="https://github.com/AnthonyWanng/AnthonyWanng/blob/main/asstes/github-contribution-grid-snake.svg" ></div>
