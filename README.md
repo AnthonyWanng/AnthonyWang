@@ -14,5 +14,5 @@
 </div>
 -->
 
-## 🚀status
+## 🚀Relax
 <div align="left"><img src="https://github.com/AnthonyWanng/AnthonyWanng/blob/main/asstes/github-contribution-grid-snake.svg" ></div>
