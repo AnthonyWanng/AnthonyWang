@@ -1,5 +1,5 @@
 ## 🥱About me
-+ ⛹️我是Anthony
++ ⛹️我是Antone
 + 👨‍💻一枚前端工程师
 <!--
 + 📮邮箱：rollingthedice22@gmail.com
